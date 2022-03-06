@@ -1,0 +1,13 @@
+C:\Users\axcel\Desktop\Archivos varios\Proyectos\Visual studio\Paint N' TextEditor\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+C:\Users\axcel\Desktop\Archivos varios\Proyectos\Visual studio\Paint N' TextEditor\Presentation Layer\bin\Debug\Presentation Layer.exe
+C:\Users\axcel\Desktop\Archivos varios\Proyectos\Visual studio\Paint N' TextEditor\Presentation Layer\bin\Debug\Presentation Layer.pdb
+C:\Users\axcel\Desktop\Archivos varios\Proyectos\Visual studio\Paint N' TextEditor\Presentation Layer\obj\Debug\Presentation Layer.csproj.AssemblyReference.cache
+C:\Users\axcel\Desktop\Archivos varios\Proyectos\Visual studio\Paint N' TextEditor\Presentation Layer\obj\Debug\Presentation_Layer.MainMenu.resources
+C:\Users\axcel\Desktop\Archivos varios\Proyectos\Visual studio\Paint N' TextEditor\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+C:\Users\axcel\Desktop\Archivos varios\Proyectos\Visual studio\Paint N' TextEditor\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+C:\Users\axcel\Desktop\Archivos varios\Proyectos\Visual studio\Paint N' TextEditor\Presentation Layer\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+C:\Users\axcel\Desktop\Archivos varios\Proyectos\Visual studio\Paint N' TextEditor\Presentation Layer\obj\Debug\Presentation Layer.exe
+C:\Users\axcel\Desktop\Archivos varios\Proyectos\Visual studio\Paint N' TextEditor\Presentation Layer\obj\Debug\Presentation Layer.pdb
+C:\Users\axcel\Desktop\Archivos varios\Proyectos\Visual studio\Paint N' TextEditor\Presentation Layer\obj\Debug\Presentation_Layer.TextEditor.resources
+C:\Users\axcel\Desktop\Archivos varios\Proyectos\Visual studio\Paint N' TextEditor\Presentation Layer\obj\Debug\Presentation_Layer.Paint.resources
+C:\Users\axcel\Desktop\Archivos varios\Proyectos\Visual studio\Paint N' TextEditor\Presentation Layer\obj\Debug\Presentation_Layer.InfoPanel.resources
